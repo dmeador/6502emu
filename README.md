@@ -28,6 +28,5 @@ After build run
 ```
 
 Nice Reference:
-https://www.csh.rit.edu/~moffitt/docs/6502.html
-
-https://www.masswerk.at/6502/6502_instruction_set.html
++ https://www.csh.rit.edu/~moffitt/docs/6502.html
++ https://www.masswerk.at/6502/6502_instruction_set.html
